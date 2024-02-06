@@ -3,6 +3,11 @@ build
 build-*
 
 # Visual Studio clutter
+.vs/
+bin/
+bin-int/
+*.user
+*.filters
 _ReSharper*
 *.sdf
 *.suo
